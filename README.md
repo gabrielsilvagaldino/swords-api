@@ -6,10 +6,10 @@ O intuito da construição dessa API é conseguir utilizar os principios do C.R.
 
 ## Coisas a se fazer:
 
-1 - Configurar o Sequelize
-2 - Montar o Diagrama de Entidade-Relacionamento no excalidraw
-3 - Criar as Migrations
-4 - Criar as Seeds
-5 - Criar as Models
-6 - Começar a criar uma requisição get
+- [ ] 1 - Configurar o Sequelize
+- [ ] 2 - Montar o Diagrama de Entidade-Relacionamento no excalidraw
+- [ ] 3 - Criar as Migrations
+- [ ] 4 - Criar as Seeds
+- [ ] 5 - Criar as Models
+- [ ] 6 - Começar a criar uma requisição get
 ...
