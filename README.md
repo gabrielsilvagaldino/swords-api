@@ -11,5 +11,6 @@ O intuito da construição dessa API é conseguir utilizar os principios do C.R.
 - [ ] 3 - Criar as Migrations
 - [ ] 4 - Criar as Seeds
 - [ ] 5 - Criar as Models
-- [ ] 6 - Começar a criar uma requisição get
-...
+- [ ] 6 - Começar a criar uma requisição get.
+<br />
+Irei adicionar mais coisas ao longo do tempo 😁
